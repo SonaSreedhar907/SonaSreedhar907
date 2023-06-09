@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Linkedin: rafhathdana](https://img.shields.io/badge/-%20rafhathdana-blue?style=plastic&logo=Linkedin&logoColor=white&link=//https://www.linkedin.com/in/sona-sreedhar-8b69aa21a/)](linkedin.com/in/sona-sreedhar-8b69aa21a//)
+[![Linkedin: sonasreedhar](https://img.shields.io/badge/-%20rafhathdana-blue?style=plastic&logo=Linkedin&logoColor=white&link=//https://www.linkedin.com/in/sona-sreedhar-8b69aa21a/)](linkedin.com/in/sona-sreedhar-8b69aa21a//)
 [![Gmail Badge](https://img.shields.io/badge/-rafahthdana@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:rafhathdana@gmail.com)](mailto:Rafhathdana@gmail.com)
 [![GitHub Mohammed Rafhath](https://img.shields.io/github/followers/Rafhathdana?label=follow&style=social)](https://github.com/Rafhathdana)
 
