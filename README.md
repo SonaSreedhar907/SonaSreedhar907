@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi there! I'm Sona Sreedhar, a passionate MERN stack web developer currently attending a bootcamp and upskilling. With experience in various web technologies and a solid foundation in the MERN stack, I've successfully delivered projects that showcase my proficiency. I have a keen willingness to learn, adapt, and improve. I constantly seek new challenges, stay up to date with the latest industry trends, and strive to deliver clean and efficient code. If you're looking for a dedicated, adaptable, and growth-oriented web developer, let's connect and discuss how I can contribute to your team or project. GitHub: henryts
+👋 Hi there! I'm Sona Sreedhar, a passionate MERN stack web developer currently attending a bootcamp and upskilling. With experience in various web technologies and a solid foundation in the MERN stack, I've successfully delivered projects that showcase my proficiency. I have a keen willingness to learn, adapt, and improve. I constantly seek new challenges, stay up to date with the latest industry trends, and strive to deliver clean and efficient code. If you're looking for a dedicated, adaptable, and growth-oriented web developer, let's connect and discuss how I can contribute to your team or project. GitHub: SonaSreedhar907
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/sona-sreedhar-8b69aa21a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/sona-sreedhar-8b69aa21a//)
 
 
 # 💻 Tech Stack:
