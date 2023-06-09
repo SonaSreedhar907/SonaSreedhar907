@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Rafhath</h1>
+<h1 align="center">Hi 👋, I'm Sona Sreedhar</h1>
 <h3 align="center">A Passionate Programmer from India</h3>
 <p align="center"><img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" /> </p>
 
