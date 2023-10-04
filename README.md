@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Linkedin: sonasreedhar](https://img.shields.io/badge/-%20SonaSreedhar-blue?style=plastic&logo=Linkedin&logoColor=white&link=//https://www.linkedin.com/in/sona-sreedhar-8b69aa21a/)](linkedin.com/in/sona-sreedhar-8b69aa21a//)
+[![Linkedin: sonasreedhar](https://img.shields.io/badge/-%20SonaSreedhar-blue?style=plastic&logo=Linkedin&logoColor=white&link=//https://www.linkedin.com/in/sona-sreedhar-5b04bb236)](linkedin.com/in/sona-sreedhar-8b69aa21a//)
 [![Gmail Badge](https://img.shields.io/badge/-sonasreedhar44@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:sonasreedhar44@gmail.com)](mailto:sonasreedhar44@gmail.com)
 [![GitHub Sona Sreedhar](https://img.shields.io/github/followers/SonaSreedhar907?label=follow&style=social)](https://github.com/SonaSreedhar907)
 
